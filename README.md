@@ -11,6 +11,11 @@
 # Basic scripting
 ![Scripting_basic](images/code.png)
 
-# Basic scripiting add echo
+# Basic scripting add echo
 ![Scripting_basic_with_echo](images/code_echo.png)
 
+# Basic scripting add tar group and gzip compression
+![Scripting_basic_tar_gz](images/backup_tar_gz.png)
+
+# Basic scripting add tar group and gzip compression using pwd to get the path
+![Scripting_basic_tar_gz_pwd](images/backup_tar_gz_pwd.png)
