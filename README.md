@@ -11,5 +11,5 @@
 ![Scripting_basic](images/code.png)
 
 
-![Scripting_basic_with_echo](images/code com echo.png)
+![Scripting_basic_with_echo](images/code_com_echo.png)
 
